@@ -1,10 +1,20 @@
-package com.mphasis.firsthibernetapp.model;
+package com.mphasis.firsthibernateapp.model;
 
 import java.util.Objects;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+@Entity
+@Table(name="contacts")
 public class Contact {
+	@Id
+	@Column(name="id",length=5)
 	private String id;
+	@Column(name="name",length=10)
 	private String name;
+	@Column(name="email_ID",length=20)
 	private String email;
 	
 	public Contact() {
