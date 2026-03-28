@@ -4,7 +4,7 @@ import org.hibernate.Session;
 
 import com.mphasis.firsthibernateapp.model.FourWheeler;
 import com.mphasis.firsthibernateapp.model.TwoWheeler;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class AppVehicle {
 	

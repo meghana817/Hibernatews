@@ -7,7 +7,7 @@ import com.mphasis.firsthibernateapp.model.BlogPost;
 import com.mphasis.firsthibernateapp.model.Comment;
 import com.mphasis.firsthibernateapp.model.Customer;
 import com.mphasis.firsthibernateapp.model.Locker;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class AppBlogComment {
 	public static void main(String args[]) {

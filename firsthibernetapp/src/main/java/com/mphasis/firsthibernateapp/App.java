@@ -3,7 +3,7 @@ import org.hibernate.Session;
 
 import com.mphasis.firsthibernateapp.dao.ContactDAO;
 import com.mphasis.firsthibernateapp.model.Contact;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class App {
 

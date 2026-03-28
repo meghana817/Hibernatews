@@ -2,7 +2,8 @@ package com.mphasis.firsthibernateapp;
 
 import com.mphasis.firsthibernateapp.model.BankAccount;
 import com.mphasis.firsthibernateapp.model.Currency;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
+
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 

@@ -4,7 +4,7 @@ import org.hibernate.Session;
 
 import com.mphasis.firsthibernateapp.model.Department;
 import com.mphasis.firsthibernateapp.model.Employee;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class EmployeeDAO {
 	

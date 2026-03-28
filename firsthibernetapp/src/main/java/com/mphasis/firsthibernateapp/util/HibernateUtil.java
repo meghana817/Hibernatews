@@ -1,4 +1,4 @@
-package com.mphasis.firsthibernetapp.util;
+package com.mphasis.firsthibernateapp.util;
 
 
 import org.hibernate.SessionFactory;

@@ -6,7 +6,7 @@ import com.mphasis.firsthibernateapp.model.Address;
 import com.mphasis.firsthibernateapp.model.Customer;
 import com.mphasis.firsthibernateapp.model.Locker;
 import com.mphasis.firsthibernateapp.model.User;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class AppCustomer {
 	public static void main(String args[])

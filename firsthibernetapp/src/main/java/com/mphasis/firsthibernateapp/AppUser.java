@@ -4,7 +4,7 @@ import org.hibernate.Session;
 
 import com.mphasis.firsthibernateapp.model.Address;
 import com.mphasis.firsthibernateapp.model.User;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class AppUser {
 	public static void main(String args[])

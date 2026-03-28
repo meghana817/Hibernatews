@@ -9,7 +9,7 @@ import com.mphasis.firsthibernateapp.model.Department;
 import com.mphasis.firsthibernateapp.model.Employee;
 import com.mphasis.firsthibernateapp.model.Locker;
 import com.mphasis.firsthibernateapp.model.User;
-import com.mphasis.firsthibernetapp.util.HibernateUtil;
+import com.mphasis.firsthibernateapp.util.HibernateUtil;
 
 public class AppEmployeeDepartments {
 	public static void main(String args[])
